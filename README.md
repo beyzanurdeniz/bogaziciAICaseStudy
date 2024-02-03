@@ -12,6 +12,11 @@ Objective is to develop a machine learning model to predict the likelihood of a 
 This model will help in identifying individuals at high risk and facilitate early intervention. 
 <hr>
 
+### Important:
+Run ```pip install -r requirements.txt``` to install the required libraries.
+
+<hr>
+
 ### <ins>Dataset</ins>
 Dataset used is the <a href="https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database/data">Pima Indians Diabetes Database</a>: 
 <li>This dataset is originally from the National Institute of Diabetes and Digestive and Kidney Diseases. The objective of the dataset is to diagnostically predict whether a patient has diabetes, based on certain diagnostic measurements included in the dataset. Several constraints were placed on the selection of these instances from a larger database. In particular, all patients here are females at least 21 years old of Pima Indian heritage.</li>
@@ -23,7 +28,9 @@ Dataset used is the <a href="https://www.kaggle.com/datasets/uciml/pima-indians-
 <li style="font-weight: bold">
 <b>Data Preprocessing:<br></b></li>
 <ul>
-<li></li>
+<li>
+Identify missing values or outlier data points and understand the data distribution. </li>
+<li>Use statistical techniques to handle missing or outlier data.</li>
 </ul>
 <li style="font-weight: bold">
 <b>Feature Engineering and Analysis:<br></b></li>
