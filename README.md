@@ -27,26 +27,18 @@ Dataset used is the <a href="https://www.kaggle.com/datasets/uciml/pima-indians-
 <ol>
 <li style="font-weight: bold">
 <b>Data Preprocessing:<br></b></li>
-<ul>
-<li>
-Identify missing values or outlier data points and understand the data distribution. </li>
-<li>Use statistical techniques to handle missing or outlier data.</li>
-</ul>
+
 <li style="font-weight: bold">
 <b>Feature Engineering and Analysis:<br></b></li>
-<ul>
-<li></li>
-</ul>
+
 <li style="font-weight: bold">
 <b>Model Building and Validation:<br></b></li>
-<ul>
-<li></li>
-</ul>
+
 <li style="font-weight: bold">
 <b>Model Comparison and Interpretation:<br></b></li>
-<ul>
-<li></li>
-</ul>
+
 </ol>
 
 <hr>
+
+<a href="reportlink">Report.txt</a> contains the detailed explanation of the tasks and the results.
