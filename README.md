@@ -41,4 +41,4 @@ Dataset used is the <a href="https://www.kaggle.com/datasets/uciml/pima-indians-
 
 <hr>
 
-<a href="reportlink">Report.txt</a> contains the detailed explanation of the tasks and the results.
+<a href="[reportlink](https://github.com/beyzanurdeniz/bogaziciAICaseStudy/blob/main/main.ipynb)">Report.txt</a> contains the detailed explanation of the tasks and the results.
